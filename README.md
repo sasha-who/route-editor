@@ -1,4 +1,8 @@
-# Route editor built with Vue.js
+# Route Editor
+
+A simple study project which allows to add pins on a map and drag them to a desirable position.
+
+__Stack and features__: Vue.js, Google Maps API integration.
 
 ## Installation
 ```
