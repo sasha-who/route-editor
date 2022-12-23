@@ -2,8 +2,6 @@
 
 A simple study project which allows to add pins on a map and drag them to a desirable position.
 
-**Stack and features**: Vue.js, Google Maps API integration.
-
 ## Installation
 
 ```
