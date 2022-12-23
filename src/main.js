@@ -9,7 +9,8 @@ Vue.use(constPlugin);
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyC0m6cM1EYezpN9-QyEQEO8BRAxWQah9UM'
+    // Some random string as a pseudo key
+    key: 'AIzaSyC0m6cM1EYezpN9-QyEQEO8BR'
   },
 
   installComponents: true
